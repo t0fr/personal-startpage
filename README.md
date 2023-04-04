@@ -1,0 +1,1 @@
+Initial commit. This will be my playground with the intention of becoming a nice startpage
